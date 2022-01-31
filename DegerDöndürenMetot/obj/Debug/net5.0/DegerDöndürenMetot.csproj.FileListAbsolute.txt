@@ -1,0 +1,15 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\DegerDöndürenMetot.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\DegerDöndürenMetot.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\DegerDöndürenMetot.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\DegerDöndürenMetot.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\DegerDöndürenMetot.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\ref\DegerDöndürenMetot.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\bin\Debug\net5.0\DegerDöndürenMetot.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\ref\DegerDöndürenMetot.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\DegerDöndürenMetot\obj\Debug\net5.0\DegerDöndürenMetot.genruntimeconfig.cache

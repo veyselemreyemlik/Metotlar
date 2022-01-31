@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qc1uR6ojrMSgarnZTIRlj9goBeMoTjI2+pEv7SJZzojYePfxr2PNqEf3DQ8t8qYxC4DCixh9LB7vhGMmQPwsCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\DegerDöndürenMetot\\DegerDöndürenMetot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
